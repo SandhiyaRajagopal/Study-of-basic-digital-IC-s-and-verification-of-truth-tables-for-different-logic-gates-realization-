@@ -70,11 +70,11 @@ RegisterNumber: 23014146
 
 RTL realization
 
-![image](https://github.com/SandhiyaRajagopal/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870852/c56c130c-56fc-4ecd-8c36-2f2748590735)
+![image](https://github.com/SandhiyaRajagopal/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870852/9c4a969a-bdc3-4b03-a1ab-704bd34d2205)
 
 Timing diagram:
 
-![image](https://github.com/SandhiyaRajagopal/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870852/ecf494c6-150c-4a9f-8b1c-4111dd6d7cd5)
+![image](https://github.com/SandhiyaRajagopal/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870852/13fa6026-451e-459d-853a-91baddb8b0e1)
 
 Truth Table:
 
